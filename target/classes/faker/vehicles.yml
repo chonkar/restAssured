@@ -1,0 +1,17 @@
+vehicles:
+  types:
+    - Car
+    - Truck
+    - Motorcycle
+    - Bicycle
+  brands:
+    - Ford
+    - Toyota
+    - Honda
+    - Tesla
+  models:
+    - Model S
+    - Model X
+    - Civic
+    - Accord
+    - F-150
